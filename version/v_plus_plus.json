@@ -1,6 +1,7 @@
 {
      "version":"1.1",
      "versioncode":"2",
+	 "supportVersion":"6.6.7",
 	 "break":"false",
 	"notice":"v++ 1.0"
  
