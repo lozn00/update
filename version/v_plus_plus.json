@@ -1,8 +1,8 @@
 {
-     "version":"1.1",
-     "versioncode":"2",
-	 "supportVersion":"6.6.7",
+     "version":"1.0",
+     "versioncode":"3",
+	 "supportVersion":"稳定支持\n\n\n6.6.7 7.0.3(最新版)  \n\n\n6.6.0以下等版本部分功能可用.",
 	 "break":"false",
-	"notice":"v++ 1.0"
+	"notice":"其它不支持的版本请打赏作者,作者有时间还是可以更新的。..."
  
 }
