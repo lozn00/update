@@ -1,10 +1,10 @@
-{
+﻿{
      "version":"2.0.2",
      "versioncode":"81",
 	 "force":"false",
 	"url":"http://qssq666.cn/update",
 	 "url1":"https://dl-xda.xposed.info/modules/cn.qssq666.robot_v62_eb05c7.apk",
-	 "group":"1JDrOuq3sxzXU3jPOSERmf4gXVCqpyqr",
+	 "group":"CljXTR_rddwPPPouQY_XzQDXlbEdWoE3",
 	 "group1":"https://jq.qq.com/?_wv=1027&k=5L1Qkht",
 	 "description":"增加点赞、禁言、修改群名片等功能。需要下载Q++1.0.9以上版本。"
 }
