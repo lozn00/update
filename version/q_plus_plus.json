@@ -1,7 +1,7 @@
 {
-     "version":"1.2.4",
-     "versioncode":"38",
+     "version":"1.2.5",
+     "versioncode":"39",
 	 "break":"false",
-"notice":"修复一些bug 增加一些功能"
+"notice":"增加单独配置某些选项功能。"
  
 }
