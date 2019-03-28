@@ -1,7 +1,7 @@
 {
-     "version":"1.2.7",
-     "versioncode":"41",
+     "version":"1.2.8",
+     "versioncode":"42",
 	 "break":"false",
-"notice":"增加单独配置某些选项功能。"
+"notice":"修复qq空间容易闪退bug"
  
 }
