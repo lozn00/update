@@ -1,10 +1,10 @@
 ﻿{
-     "version":"2.0.2",
-     "versioncode":"81",
-	 "force":"false",
+     "version":"3.0",
+     "versioncode":"88",
+	 "force":"true",
 	"url":"http://qssq666.cn/update",
 	 "url1":"https://dl-xda.xposed.info/modules/cn.qssq666.robot_v62_eb05c7.apk",
 	 "group":"CljXTR_rddwPPPouQY_XzQDXlbEdWoE3",
 	 "group1":"https://jq.qq.com/?_wv=1027&k=5L1Qkht",
-	 "description":"增加点赞、禁言、修改群名片等功能。需要下载Q++1.0.9以上版本。"
+	 "description":"增加主动撤回功能，二维码，二维码生成功能等。主动撤回功能目前处于内测阶段，等代码加密处理后会进行发布，vip用户优先使用，新版本支持登录注册功能。可在线充值。"
 }
